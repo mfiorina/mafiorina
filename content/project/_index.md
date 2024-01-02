@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Project
 description: "Many more projects to be added!"
 author: "Marc-Andrea Fiorina"
 show_post_thumbnail: true
