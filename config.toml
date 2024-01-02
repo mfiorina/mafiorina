@@ -61,7 +61,7 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "AtkinsonHyperlegible"
+  customtextFontFamily = "Atkinson Hyperlegible"
   customheadingFontFamily = "Fraunces"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
@@ -107,14 +107,14 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "R Course"
-    title = "R Course"
-    url = "/r_course/"
-    weight = 2
-  [[menu.header]]
     name = "Projects"
     title = "Projects"
     url = "/project/"
+    weight = 2
+  [[menu.header]]
+    name = "R Course"
+    title = "R Course"
+    url = "/project/r_course/"
     weight = 3
 
   # Configure footer
@@ -123,16 +123,6 @@ enableEmoji = true
     title = "License"
     url = "/license/"
     weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/
 [privacy]

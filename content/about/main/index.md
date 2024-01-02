@@ -1,17 +1,12 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title: "" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
-  
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
-show_outro: true
-outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  Marc-Andrea Fiorina is an Impact Evaluation Analyst with the Development Impact Evaluation (DIME) unit at the World Bank. He works on a series of impact evaluations focused on gender and cash transfers, assessing World Food Programme food-for-assets (FFA) projects in four different countries. Marc-Andrea also teaches the 'R for Professional Research' course at the Johns Hopkins University School of Advanced International Studies (SAIS). Marc-Andrea is passionate about making coding more accessible and about building equitable paths for entry-level research positions in the professional and academic worlds.
 ---
 
 ** index doesn't contain a body, just front matter above.

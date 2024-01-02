@@ -1,16 +1,16 @@
 ---
-title: "Hugo Apéro"
-subtitle: "A Hugo theme you'll want to hang out with"
-description: "Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic, we wanted to create a polished Hugo theme with the right features for a true personal website. We set out to create a theme that is a pleasure to learn, and one that helps others get to know you better. It is more than a blog, with flexible custom layouts that help you introduce yourself online."
+title: "Marc-Andrea Fiorina"
+subtitle: "Data Analyst and R Instructor"
+description: "Marc-Andrea Fiorina is an Impact Evaluation Analyst with the Development Impact Evaluation (DIME) unit at the World Bank. He works on a series of impact evaluations focused on gender and cash transfers, assessing World Food Programme food-for-assets (FFA) projects in four different countries. Marc-Andrea also teaches the 'R for Professional Research' course at the Johns Hopkins University School of Advanced International Studies (SAIS). Marc-Andrea is passionate about making coding more accessible and about building equitable paths for entry-level research positions in the professional and academic worlds."
 images:
-  - img/revoir.jpg
-image_left: true
+  - img/mafiorina.png
+image_left: false
 text_align_left: false
 show_social_links: true # specify social accounts in site config
 show_action_link: true
-action_link: /about
-action_label: "Read More &rarr;"
-action_type: text # text, button
+action_link: /fiorina_resume.pdf
+action_label: "Résumé"
+action_type: button
 type: home
 ---
 
