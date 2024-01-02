@@ -1,9 +1,9 @@
 ---
-title: "Palmer Penguins"
-subtitle: ""
-excerpt: "Grid is the very first CSS module created specifically to solve the layout problems we’ve all been hacking our way around for as long as we’ve been making websites."
-date: 2019-07-02
-author: "Eric Anderson"
+title: "R for Professional Research"
+subtitle: "Johns Hopkins University School of Advanced International Studies (SAIS)"
+excerpt: "My R Course for graduate students at Johns Hopkins University SAIS."
+date: 2024-02-02
+author: "Marc-Andrea Fiorina"
 featured: true
 draft: false
 tags:
